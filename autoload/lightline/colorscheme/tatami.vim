@@ -2,7 +2,7 @@
 " Filename: autoload/lightline/colorscheme/tatami.vim
 " Author: ts-26a
 " License: MIT License
-" Last Change: 2020/07/05
+" Last Change: 2020/07/05 16:13:07.
 " =============================================================================
 
 let s:blue = ['#bce2e8', 159]
